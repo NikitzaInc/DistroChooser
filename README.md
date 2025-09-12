@@ -7,13 +7,13 @@
 This app was made to make the choise of distribution easier. If you are looking for lightweight distro for your laptop, or stable and configurable system for your server, this service is for you! It allows filtering by the hardware, needed packages, personal preferrences and user experience. 
 
 ### Stages
--[ ] Problem Definition 
--[ ] Requirements Development
--[ ] Architecture Development and Detailed Design
--[ ] Coding and Debugging
--[ ] Unit Testing
--[ ] Integration Testing
--[ ] Building
+- [x] Problem Definition 
+- [ ] Requirements Development
+- [ ] Architecture Development and Detailed Design
+- [ ] Coding and Debugging
+- [ ] Unit Testing
+- [ ] Integration Testing
+- [ ] Building
 
 ### Dependencies
 
